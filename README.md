@@ -19,8 +19,7 @@ $ omf install slacker
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* Dead simple with git status and date & time!
 
 
 ## Screenshot
@@ -32,12 +31,11 @@ $ omf install slacker
 
 # License
 
-[MIT][mit] © [Maqbool ur Rahim Khan][author] et [al][contributors]
+[MIT][mit] © [Maqbool ur Rahim Khan][author]
 
 
 [mit]:            https://opensource.org/licenses/MIT
 [author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/theme-slacker/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
