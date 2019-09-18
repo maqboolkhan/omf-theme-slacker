@@ -25,7 +25,7 @@ $ omf install slacker
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img src="https://raw.githubusercontent.com/maqboolkhan/omf-theme-slacker/master/1.png">
 </p>
 
 
